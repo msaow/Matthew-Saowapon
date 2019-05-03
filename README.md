@@ -1,2 +1,2 @@
 # profilepage
-A land page for saowapon.com
+A landing page for saowapon.com
