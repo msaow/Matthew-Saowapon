@@ -1,2 +1,11 @@
-I am just starting to put this website together, but great things are coming.
-In the meantime please check out [my hiking blog](https://athousandhilltops.com/)
+# Chemist
+I am developing analytical methods at [ACWA](https://www.ucalgary.ca/acwa/) to detect emerging contaminants in the environment. My current focus is a GC-MS method to quantify plasticizers in municipal waste water.
+
+Learn more about my work on [LinkedIn](https://www.linkedin.com/in/mtsaowapon/)
+
+---
+
+# Climber
+On the weekend I love exploring the mountains with my friends.
+
+Read more about my adventures at [athousandhilltops.com](https://athousandhilltops.com/)
