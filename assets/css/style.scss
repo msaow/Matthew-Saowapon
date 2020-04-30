@@ -8,7 +8,9 @@
 }
 
 .clear::before {
-    clear: both;
+  content: "";
+  display: table;
+  clear: both;
 }
 
 img[src*="#f-right"] {
