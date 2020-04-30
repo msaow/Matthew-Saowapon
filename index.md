@@ -6,9 +6,10 @@
 </div>
 <img src="assets/media/head_shot.jpg" alt="Matthew Saowapon" class="f-right">
 </div>
-<br class="clear">
 
 ---
+
+<div class="group">
 <img src="assets/media/wapta.jpg" alt="Wapta Icefield" class="f-left">
 <div class="f-right">
 <h1>Climber</h1>
@@ -16,4 +17,4 @@
 <p>One of my highlights is our trip up <a href="https://athousandhilltops.com/mt-kitchener-and-snow-dome/">Kitchener and Snow Dome</a> at the end of my first backcountry season. I spent the year working hard to gain the technical skills and experience required to plan our very own trip up the Colombia Icefield. There were a lot of crashes and terrifying moments in the process, but it paid off with great memories in spectacular places.</p>
 <p>Read more of my adventures at <a href="https://athousandhilltops.com/">athousandhilltops.com</a></p>
 </div>
-<br class="clear">
+</div>
