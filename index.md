@@ -3,6 +3,8 @@ I am developing analytical methods at [ACWA](https://www.ucalgary.ca/acwa/) to d
 
 Learn more about my work on [LinkedIn](https://www.linkedin.com/in/mtsaowapon/)
 
+![Matthew Saowapon](assets/head_shot.jpg#right)
+
 ---
 
 # Climber
