@@ -1,4 +1,4 @@
-<div>
+<div class="group">
 <img src="assets/head_shot.jpg" alt="Matthew Saowapon" class="f_right">
 <h1>Chemist</h1>
 <p>
