@@ -7,7 +7,7 @@ Learn more about my work on <a href="https://www.linkedin.com/in/mtsaowapon/">Li
 </p>
 </div>
 
----
+<hr class="clear">
 
 # Climber
 On the weekend I love exploring the mountains with my friends.
