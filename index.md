@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
 <div class="group">
 <div class="f-left">
 <h1>Chemist</h1>
