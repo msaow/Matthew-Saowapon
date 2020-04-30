@@ -11,14 +11,10 @@
   clear: both;
 }
 
-img[src*="#f-right"] {
-  width:300px;
-  height:300px;
+.f-right {
   float: right;
 }
 
-img[src*="#f-left"] {
-  width:300px;
-  height:300px;
+.f-left {
   float: left;
 }
