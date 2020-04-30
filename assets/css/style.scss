@@ -7,6 +7,12 @@
   display: none !important;
 }
 
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .f_right {
   width:300px;
   height:300px;
