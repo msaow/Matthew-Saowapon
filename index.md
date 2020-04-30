@@ -1,11 +1,8 @@
-<div class="group">
-<img src="assets/head_shot.jpg" alt="Matthew Saowapon" class="f_right">
-<h1>Chemist</h1>
-<p>I am developing analytical methods at <a href="https://www.ucalgary.ca/acwa/">ACWA</a> to detect emerging contaminants in the environment. My current focus is a GC-MS method to quantify plasticizers in municipal waste water.<br>
-<br>
-Learn more about my work on <a href="https://www.linkedin.com/in/mtsaowapon/">LinkedIn</a>
-</p>
-</div>
+![Matthew Saowapon](assets/head_shot.jpg#f-right)
+# Chemist
+I am developing analytical methods at [ACWA](https://www.ucalgary.ca/acwa/) to detect emerging contaminants in the environment. My current focus is a GC-MS method to quantify plasticizers in municipal waste water.
+
+Learn more about my work on [LinkedIn](https://www.linkedin.com/in/mtsaowapon/)
 
 <hr class="clear">
 
