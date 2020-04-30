@@ -4,7 +4,8 @@ I am developing analytical methods at [ACWA](https://www.ucalgary.ca/acwa/) to d
 
 Learn more about my work on [LinkedIn](https://www.linkedin.com/in/mtsaowapon/)
 <br class="clear">
-...
+
+---
 
 # Climber
 On the weekend I love exploring the mountains with my friends.
