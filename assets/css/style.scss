@@ -7,7 +7,7 @@
   display: none !important;
 }
 
-.clear {
+.clear::before {
     clear: both;
 }
 
