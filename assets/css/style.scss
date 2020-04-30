@@ -7,6 +7,10 @@
   display: none !important;
 }
 
+img {
+  object-fit: contain;
+}
+
 @media screen and (min-width: 600px) /* Desktop */ {
 
 .group{
@@ -15,11 +19,11 @@
 
 .f-right {
   float: right;
-  max-width: 40%;
+  max-width: 45%;
 }
 
 .f-left {
   float: left;
-  max-width: 40%;
+  max-width: 45%;
 }
 }
