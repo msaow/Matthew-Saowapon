@@ -4,5 +4,11 @@
 @import "{{ site.theme }}";
 
 #forkme_banner {
-display: none !important;
+  display: none !important;
+}
+
+img[src*="#right"] {
+  width:500px;
+  height:500px;
+  float: right;
 }
