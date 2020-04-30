@@ -7,6 +7,8 @@
   display: none !important;
 }
 
+@media screen and (min-width: 600px) /* Desktop */ {
+
 .group{
   display: flow-root;
 }
@@ -20,9 +22,4 @@
   float: left;
   max-width: 50%;
 }
-
-@media screen and (max-width: 600px) /* Mobile */ {
-  .f-right, .f-left {
-    float: none;
-    max-width: 100%
-  }
+}
